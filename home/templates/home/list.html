@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>등록된 소설들</title>
+</head>
+
+
+
+<style>
+    .panel-heading {
+        background-color: #4caf50;
+    }
+
+</style>
+
+<body>
+
+{% extends 'home/style/top.html' %}
+
+
+{% block content %}
+
+    <div class="panel-heading">최근 등록된 소설 목록</div>
+
+
+    <form action="novel_list">
+        <input type="input" id="title" name="title" value="" >
+        <input type="submit" title="검색" value="검색">
+    </form>
+
+    <br>
+
+
+    {% for value in res %}
+        <a href="{% url 'novel_page_list' value.novel_address_code %}">{{ value.novel_name_kor }}</a>
+
+            &nbsp;
+
+        <br>
+    {% endfor %}
+
+
+
+{% endblock %}
+
+</body>
+</html>

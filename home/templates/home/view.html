@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>보여주기 임시</title>
+</head>
+<body>
+
+
+{% extends 'home/style/top.html' %}
+
+{% block content %}
+
+    {% for val in value %}
+
+        <h3>{{val.novel_pageTitle}}</h3>
+
+
+        <h3>{{val.novel_page}}</h3>
+
+
+
+       {# 자동으로 필터가 걸려서 해당 코드로 하지 않으면 정규식 특수문자로 반환 #}
+       {{ val.novel_content|safe }}
+
+
+    {% endfor %}
+{% endblock%}
+
+
+
+<br>
+
+
+
+
+</body>
+</html>
+

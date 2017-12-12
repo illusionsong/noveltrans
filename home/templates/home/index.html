@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>매인화면</title>
+
+
+
+
+</head>
+<body>
+
+
+{% extends 'home/style/top.html' %}
+
+
+{% block content %}
+
+    <div style="background-color:green;width:500px;height:500px;">
+        매인화면 내용
+    </div>
+
+
+
+<a href="{% url 'novel_label_check' %}"> 전 리스트 채크</a>
+<a href="{% url 'novel_IncomingList_commit' %}"> 리스트 처리</a>
+
+
+{% endblock %}
+
+
+
+
+    {{res}}
+
+     {{ request.session.id }}
+
+
+
+
+</body>
+</html>

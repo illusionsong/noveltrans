@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>데이터 삽입</title>
+</head>
+<body>
+
+
+{% extends 'home/style/top.html' %}
+
+
+{% block content %}
+
+    <form action="novel_label_insert" method="post">
+        {% csrf_token %}
+
+        <input type="text" value="https://ncode.syosetu.com/n3349dr/" name="url">
+
+
+
+
+
+        <select name='novel_adult_check'>
+            <option value = '0' selected="selected"> 성인아님	</option>
+            <option value = '1'>					성인물	</option>
+        </select>
+
+        <input type="submit" value="요청">
+
+    </form>
+
+{% endblock %}
+
+https://www.pixiv.net/novel/show.php?id=1206710
+https://ncode.syosetu.com/n5040ce/
+https://www.pixiv.net/series.php?id=128815
+http://sitetrans.naver.net/?rel=http://ncode.syosetu.com/n3191eh/&srcLang=ja&tarLang=ko
+</body>
+</html>
+
+
+

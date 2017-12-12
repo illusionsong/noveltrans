@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>소설편 리스트</title>
+</head>
+<body>
+
+{% extends 'home/style/top.html' %}
+
+{% block content %}
+
+    {% for val in res %}
+
+
+        <a href="{% url 'novel_content_view' title val.novel_page%}">{{ val.novel_pageTitle }}</a>
+
+
+        &nbsp;
+        &nbsp;
+        &nbsp;
+
+        <a href="/novel_content_update/{{ title }}/{{ val.novel_page }}">수정요청</a>
+
+
+        <br>
+    {% endfor %}
+{% endblock%}
+
+
+
+
+</body>
+</html>

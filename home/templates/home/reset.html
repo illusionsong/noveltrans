@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% extends 'home/style/top.html' %}
+
+
+{% block content %}
+
+
+    <form action="novel_reset" method="post">
+        {% csrf_token %}
+
+        <select name="index_code" id="">
+            {% for val in res %}
+            <option value="{{val.index_code}}">{{val.novel_name_kor}}</option>
+            {% endfor %}
+        </select>
+
+        <input type="submit" value="요청">
+
+    </form>
+{% endblock%}
+
+
+
+</body>
+</html>
+
+
+

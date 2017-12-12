@@ -1,0 +1,164 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>탑</title>
+
+
+<style type="text/css">
+
+
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+.head a:link { color: white; text-decoration: none;}
+.head a:visited { color: white; text-decoration: none;}
+
+
+
+
+ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+
+    text-align: center;
+
+}
+
+li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float: left;
+
+
+
+	position: relative;
+    display: block;
+
+
+
+}
+
+.head{
+
+	background-color: #009688;
+
+
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+	position: relative;
+
+	min-height:50px;
+	height: 50px;
+
+
+}
+
+.toolbox{
+
+
+	margin: 0;
+	padding: 0;
+
+}
+
+.toolbox a{
+
+	padding: 15px;
+
+}
+
+
+
+.div_index{
+
+
+	float: left;
+	height: 100%;
+
+	width:150px;
+	margin:0 auto;
+
+	text-align: center;
+
+	position: relative;
+
+}
+
+	.div_index a , .div_menuList li a , .div_login a{
+
+		line-height: 48px;
+
+
+	}
+
+.div_menuList	{
+
+    display: block!important;
+
+    float: left;
+
+}
+
+	.div_menuList li{
+
+		margin-right: 10px;
+
+	}
+.div_login		{
+
+
+    float: right !important;
+}
+
+
+</style>
+
+
+
+
+
+</head>
+<body>
+
+
+
+<div class='head'>
+	<div class='div_index		toolbox'>
+		<a href="{% url 'index' %}">매인화면</a>
+	</div>
+	<div class='div_menuList	toolbox'>
+		<ul>
+			<li><a href="{% url 'novel_list' %}">리스트</a></li>
+			<li> <a href="{% url 'novel_trans_req'%}">삽입</a></li>
+			<li><a href="{% url 'novel_contente_reset' %}">초기화</a></li>
+		</ul>
+	</div>
+	<div class='div_login		toolbox'>
+		<a href="{% url 'login' %}">로그인</a>
+	</div>
+</div>
+
+
+	{% block content %}
+	{% endblock %}
+
+</body>
+</html>
+
+
+
