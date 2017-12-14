@@ -9,6 +9,7 @@ import re
 
 from home.controll.novel_content_commit_trans import novel_content_commit_trans
 
+import os
 
 
 class novel_content_commit_ori(threading.Thread):
@@ -18,7 +19,7 @@ class novel_content_commit_ori(threading.Thread):
         threading.Thread.__init__(self)
 
         self.args = args
-        self.driver =   webdriver.PhantomJS('C:/Users/egnis/trans/phantomjs/bin/phantomjs')
+        self.driver =   webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs')
         self.conn   =   pymysql.connect(host='logtest3.c7rrpzvpygvb.ap-northeast-2.rds.amazonaws.com', user='admin',password='logtest3password',db='trans', charset='utf8')
         self.curs   =   self.conn.cursor(pymysql.cursors.DictCursor)
 

@@ -13,6 +13,8 @@ import json
 import MySQLdb
 
 import re
+import os
+
 
 
 from home.controll.controller import Control
@@ -68,7 +70,7 @@ def index(request):
 def tttt(request):
 
 
-    driver = webdriver.PhantomJS('C:/Users/egnis/trans/phantomjs/bin/phantomjs')
+    driver = webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs')
     driver.implicitly_wait(4)
 
     driver.get('https://novel18.syosetu.com/n8897dt/2')

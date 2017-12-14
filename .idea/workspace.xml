@@ -2,93 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d85c637-fc35-4dd6-a2fa-c0e92b364b8a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chromedriver/chromedriver.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chromedriver_win32.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/bin/phantomjs.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/$(date +%y)$(date +%m)$(date +%d)_$(date +%H)$(date +%M)_README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/trans.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ghostdriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_ori.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_trans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/controll/novel_content_insertAll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/reset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/style/top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/home/view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/ChangeLog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/LICENSE.BSD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/arguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/child_process-examples.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/colorwheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/countdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/detectsniff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/echoToFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/features.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/fibo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/injectme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/loadspeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/loadurlwithoutcss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/netlog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/netsniff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/openurlwithproxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/outputEncoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/page_events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/pagecallback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/phantomwebintro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/postjson.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/postserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/printenv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/printheaderfooter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/printmargins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/rasterize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/render_multi_url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/responsive-screenshot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/run-jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/run-jasmine2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/run-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/scandir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/serverkeepalive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/simpleserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/sleepsort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/stdin-stdout-stderr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/universe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/unrandomize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/useragent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/waitfor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/examples/walk_through_frames.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantomjs/third-party.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trans/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trans/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trans/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trans/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trans/django.wsgi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghostdriver.log" afterPath="$PROJECT_DIR$/ghostdriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/controller.py" afterPath="$PROJECT_DIR$/home/controll/controller.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/novel_content_commit_ori.py" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_ori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/novel_content_commit_trans.py" afterPath="$PROJECT_DIR$/home/controll/novel_content_commit_trans.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/controll/novel_content_insertAll.py" afterPath="$PROJECT_DIR$/home/controll/novel_content_insertAll.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/home/index.html" afterPath="$PROJECT_DIR$/home/templates/home/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trans/settings.py" afterPath="$PROJECT_DIR$/trans/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,45 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/views.py">
+      <file leaf-file-name="novel_content_commit_fragment_ori.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controller.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/controll/controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aa.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trans/aa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="novel_content_commit_fragment_ori.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py">
+      <file leaf-file-name="novel_content_insertAll.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_insertAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="854">
-              <caret line="214" column="52" lean-forward="false" selection-start-line="214" selection-start-column="52" selection-end-line="214" selection-end-column="52" />
+            <state relative-caret-position="209">
+              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="85" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -148,32 +50,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="novel_content_commit_fragment_trans.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trans/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2033">
-              <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="36" />
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="65" lean-forward="true" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/controll/controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" column="80" lean-forward="false" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="novel_content_commit_ori.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_ori.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="novel_content_commit_trans.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_trans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,8 +109,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+            <state relative-caret-position="589">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -222,7 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>バカと美少女と三国志</find>
       <find>find</find>
       <find>https://www.pixiv.net/novel/show.php?id=1206710</find>
       <find>WebDriverWait</find>
@@ -252,6 +179,7 @@
       <find>novel_IncomingList_commit</find>
       <find>novel_content_commit_fragment_ori</find>
       <find>title_list</find>
+      <find>ALLOWED_HOSTS</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -274,24 +202,25 @@
         <option value="$PROJECT_DIR$/trans/test.py" />
         <option value="$PROJECT_DIR$/home/controll/thr.py" />
         <option value="$PROJECT_DIR$/home/controll/novel_content.py" />
-        <option value="$PROJECT_DIR$/home/controll/novel_content_insertAll.py" />
-        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_trans.py" />
-        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_ori.py" />
-        <option value="$PROJECT_DIR$/trans/settings.py" />
         <option value="$PROJECT_DIR$/home/templates/home/input.html" />
         <option value="$PROJECT_DIR$/home/templates/home/page.html" />
         <option value="$PROJECT_DIR$/home/templates/home/reset.html" />
         <option value="$PROJECT_DIR$/home/templates/home/view.html" />
         <option value="$PROJECT_DIR$/home/templates/home/style/top.html" />
         <option value="$PROJECT_DIR$/home/templates/home/list.html" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/trans/urls.py" />
-        <option value="$PROJECT_DIR$/home/templates/home/index.html" />
-        <option value="$PROJECT_DIR$/home/views.py" />
-        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py" />
-        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py" />
-        <option value="$PROJECT_DIR$/home/controll/controller.py" />
         <option value="$PROJECT_DIR$/trans/aa.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/settings.py" />
+        <option value="$PROJECT_DIR$/trans/settings.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/home/views.py" />
+        <option value="$PROJECT_DIR$/home/templates/home/index.html" />
+        <option value="$PROJECT_DIR$/home/controll/novel_content_insertAll.py" />
+        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py" />
+        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py" />
+        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_trans.py" />
+        <option value="$PROJECT_DIR$/home/controll/novel_content_commit_ori.py" />
+        <option value="$PROJECT_DIR$/home/controll/controller.py" />
       </list>
     </option>
   </component>
@@ -322,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -332,13 +262,23 @@
             <path>
               <item name="transtext" type="b2602c69:ProjectViewProjectNode" />
               <item name="transtext" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transtext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transtext" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="controll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transtext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transtext" type="462c0819:PsiDirectoryNode" />
               <item name="trans" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -469,16 +409,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14479166" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -501,7 +441,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/home/controll/controller.py</url>
-          <line>874</line>
+          <line>875</line>
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -512,13 +452,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/trans/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trans/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -616,13 +549,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/trans/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -657,24 +583,10 @@
     <entry file="file://$PROJECT_DIR$/home/tests.py" />
     <entry file="file://$PROJECT_DIR$/home/controll/thr.py" />
     <entry file="file://$PROJECT_DIR$/home/controll/novel_content.py" />
-    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_insertAll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trans/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -706,10 +618,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_trans.py">
+    <entry file="file://$PROJECT_DIR$/trans/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="72" column="13" lean-forward="false" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="118" column="24" lean-forward="true" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -731,79 +678,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_ori.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trans/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_trans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_trans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_fragment_ori.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="854">
-          <caret line="214" column="52" lean-forward="false" selection-start-line="214" selection-start-column="52" selection-end-line="214" selection-end-column="52" />
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views.py">
+    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_commit_ori.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="38">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/controll/novel_content_insertAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#222#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/controll/controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        <state relative-caret-position="323">
+          <caret line="26" column="80" lean-forward="false" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trans/aa.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="57">
+          <caret line="3" column="65" lean-forward="true" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
           <folding />
         </state>
       </provider>
