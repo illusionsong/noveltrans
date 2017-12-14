@@ -70,7 +70,7 @@ def index(request):
 def tttt(request):
 
 
-    driver = webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs')
+    driver = webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs.exe')
     driver.implicitly_wait(4)
 
     driver.get('https://novel18.syosetu.com/n8897dt/2')

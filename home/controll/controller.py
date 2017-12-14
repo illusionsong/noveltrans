@@ -24,7 +24,7 @@ class Control():
     def __init__(self):
 
         #self.driver = webdriver.PhantomJS('C:/Users/egnis/trans/phantomjs/bin/phantomjs')
-        self.driver = webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs')
+        self.driver = webdriver.PhantomJS(os.getcwd() + '/phantomjs/bin/phantomjs.exe')
 
         self.conn = pymysql.connect(host='logtest3.c7rrpzvpygvb.ap-northeast-2.rds.amazonaws.com', user='admin',
                                password='logtest3password',
